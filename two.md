@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/team13eng1/piazza-panic/">
-    <img src="./assets/Capture.jpg" alt="Logo" width="400" height="400">
+    <img src="./assets/Capture.PNG" alt="Logo" width="400" height="400">
   </a>
 
   <h1 align="center"> <a href = "README.md"> Piazza Panic </a> </h1>
