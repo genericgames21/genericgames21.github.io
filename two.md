@@ -20,7 +20,6 @@
 <h3 align="center">Information Documents</h3>
 <p align="center">
   <a href="./files/info/brief.md">brief.md</a>
-  •
   <a href="./files/info/eng1-team-assessment-1.pdf">assessment.pdf</a>
 </p>
 </div>
