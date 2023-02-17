@@ -3,7 +3,7 @@
     <img src="./assets/Capture.jpg" alt="Logo" width="400" height="400">
   </a>
 
-  <h1 align="center" style="color: black"> <a href = "README.md"> Piazza Panic </a></h1>
+  <h1 align="center"> <a href = "README.md"> Piazza Panic </a> </h1>
 
   <p align="center">
     A LibGDX game for ENG1
@@ -17,14 +17,14 @@
     <a href="two.md"> Assessment Two Deliverables</a>
     <br>
   </p>
-
 <h3 align="center">Information Documents</h3>
 <p align="center">
-  <a href="./files/info/brief.md">brief.md </a>
+  <a href="./files/info/brief.md">brief.md</a>
   •
   <a href="./files/info/eng1-team-assessment-1.pdf">assessment.pdf</a>
 </p>
 </div>
-
-
-
+<h3 align="center">Change Report</h3>
+<h3 align="center">Testing</h3>
+<h3 align="center">Continuous Integration</h3>
+<h3 align="center">Implementation</h3>
