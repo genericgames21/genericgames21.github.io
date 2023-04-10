@@ -17,13 +17,33 @@
     <a href="two.md"> Assessment Two Deliverables</a>
     <br>
   </p>
-<h3 align="center">Information Documents</h3>
-<p align="center">
-  <a href="./files/info/brief.md">brief.md</a>
-  <a href="./files/info/eng1-team-assessment-1.pdf">assessment.pdf</a>
-</p>
-</div>
-<h3 align="center">Change Report</h3>
-<h3 align="center">Testing</h3>
-<h3 align="center">Continuous Integration</h3>
-<h3 align="center">Implementation</h3>
+  <h3 align="center">Information Documents</h3>
+  <p align="center">
+    <a href="./files/info/brief.md">brief.md</a>
+    <a href="./files/info/eng1-team-assessment-1.pdf">assessment.pdf</a>
+  </p>
+  </div>
+  <h3 align="center">Gantt Charts</h3>
+    <p align="center">
+      <a href="Gantt2.md"> Weekly Gantt Charts</a>
+    </p>
+  <h3 align="center">Change Report</h3>
+  <h3 align="center">Architecture Diagrams</h3>
+    <p align="center">
+        <a href="./files/assessment/usecase1.png"> Game Play Use Case </a>
+    </p>
+    <p align="center">
+        <a href="./files/assessment/usecase2.png"> Login and Pause Use Case </a>
+    </p>
+    <p align="center">
+        <a href="./files/assessment/endlessstate.png"> Endless Mode State </a>
+    </p>
+    <p align="center">
+        <a href="./files/assessment/scenariostate.png"> Scenario Mode State </a>
+    </p>
+    <p align="center">
+        <a href="./files/assessment/sequence.png"> Sequence </a>
+    </p>
+  <h3 align="center">Testing</h3>
+  <h3 align="center">Continuous Integration</h3>
+  <h3 align="center">Implementation</h3>
