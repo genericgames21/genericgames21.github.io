@@ -44,6 +44,9 @@
     <p align="center">
         <a href="./files/assessment/sequence.png"> Sequence </a>
     </p>
+     <p align="center">
+        <a href="./files/assessment/final class diagrams.pdf"> Final Class Diagrams </a>
+    </p>
   <h3 align="center">Testing</h3>
   <h3 align="center">Continuous Integration</h3>
   <h3 align="center">Implementation</h3>
