@@ -1,7 +1,17 @@
+---
+title: gantt
+---
 <div align="center">
   <a href="https://github.com/team13eng1/piazza-panic/">
-    <img src="./assets/Capture.png" alt="Logo" width="400" height="400">
+    <img src="./assets/Capture.png" alt="Logo" width="200" height="200">
   </a>
+</div>
+
+<div align="center">
+  <a href= "https://github.com/aopalombo/piazza-panic/">
+    <img src="./assets/Logo.jpeg" alt="Logo" width="270" height="200">
+  </a>
+</div>
 
   <h1 align="center"> <a href = "README.md"> Piazza Panic </a></h1>
 
